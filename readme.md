@@ -1,0 +1,1 @@
+Program ma za zadanie (a raczej będzie miał) przejść wszystkie etapy w tworzeniu karty bohatera dla gry fabularnej Fallout. Ma poprostu działać i potem ew wysłać to wszystko do pliku aby można było to na spokojnie wydrukować.

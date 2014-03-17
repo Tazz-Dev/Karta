@@ -1,0 +1,25 @@
+﻿ver 0.1
+[done] menu wyboru rasy
+[in progress] tworzenie rasy "Człowiek"
+[done] wprowadzanie podstawowych statystyk
+[done] sprawdzanie racjonalnych wartości dla rasy "Człowiek"
+[done] sprawdzenie czy wydano odpowiednią liczbę punktów
+[done] lista traitów
+
+
+ver 0.2
+[done] przeliczenie statystyk drugorzędnych
+[done] przeliczenie umiejętności
+
+
+ver 0.3
+[done] traity zmieniają współczynniki
+[todo] Tagi
+
+ver 0.4
+ver 0.5
+ver 0.6
+ver 0.7
+ver 0.8
+ver 0.9
+ver FINAL
